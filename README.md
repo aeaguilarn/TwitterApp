@@ -45,9 +45,5 @@ The following **bonus** features are implemented:
 - [x] User can pull to refresh. (1pt)
 - [x] User can load past tweets infinitely. (2pts)
 
-## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
-
-<img src=https://i.imgur.com/HFELv68.gif title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
